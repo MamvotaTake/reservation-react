@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function ButtonIcon() {
+export default function Profile() {
     return (
         <div>
-            icon
+            Profile
         </div>
     )
 }
